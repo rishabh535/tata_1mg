@@ -1,5 +1,8 @@
-# tata_1mg
+
 ![image](https://github.com/rishabh535/tata_1mg/assets/135207990/b1011bc8-49e1-4bc8-b7b1-0523cb4c4d55)
+
+
+
 Tata 1mg Medicines Market Analysis Project
 Overview
 This project aims to gather data from the Tata 1mg website using web scraping techniques, prepare and merge the data in Excel, and finally, visualize the data using Power BI for comprehensive market analysis of medicines available on Tata 1mg.
